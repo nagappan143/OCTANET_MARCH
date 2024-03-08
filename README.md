@@ -1,2 +1,1 @@
-# OCTANET_MARCH
-OCTANET-Intern-NAGAPPAN K-I Developed this landing page website using HTML,CSS,JS.
+# OCTANET-Intern-NAGAPPAN K-LANDING-PAGE-USING-HTML-CSS-JS-Task-1
